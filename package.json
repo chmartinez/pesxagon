@@ -1,0 +1,25 @@
+{
+  "name": "@chmartinez35/pesxagon",
+  "version": "1.0.0",
+  "description": "Renders an hexagon like the ones from PES",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chmartinez/pesxagon.git"
+  },
+  "keywords": [
+    "animation",
+    "geometry",
+    "javascript",
+    "learning"
+  ],
+  "author": "Christian Martinez <chmartinez35@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chmartinez/pesxagon/issues"
+  },
+  "homepage": "https://github.com/chmartinez/pesxagon#readme"
+}
